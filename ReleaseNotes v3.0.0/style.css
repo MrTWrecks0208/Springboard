@@ -1,0 +1,288 @@
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@100;300;400;500;600&family=Poppins+Light:wght@100;200;300;400&family=Lato:wght@300;400;500;600&display=swap");
+
+body {
+	max-height: 850px;
+	max-width: 350px;
+	background: #1b1d56;
+}
+
+.ribbon-wrapper {
+	width: 200px;
+	height: 120px;
+	position: absolute;
+	top: 15px;
+	left: 15px;
+}
+
+.ribbon-wrapper .ribbon {
+	font-size: 20px;
+	text-align: center;
+	text-transform: uppercase;
+	font-weight: 700;
+	font-family: "Poppins", san-serif;
+	text-align: center;
+    transform: rotate(45deg);
+	-webkit-transform: rotate(-45deg);
+	position: relative;
+	padding: 5px 0;
+	top: 10px;
+	left: -70px;
+	width: 200px;
+	background: #0abab5;
+	color: #fff;
+	letter-spacing: 1.25px;
+}
+
+#heading-ctr {
+	display: block;
+	position: relative;
+	width: 100%;
+	text-align: left;
+	padding: 0;
+	margin-top: 80px;
+	margin-bottom: 20px;
+	margin-left: 50px;
+}
+
+#logo {
+	display: inline;
+	position: relative;
+	max-height: 135px;
+	max-width: 240px;
+}
+
+img {
+	display: inline;
+	position: relative;
+	max-height: 32px;
+	max-width: 32px;
+}
+
+h1,
+h2,
+h3,
+h4 {
+	font-family: "Poppins", sans-serif;
+	letter-spacing: -0.5px;
+	text-align: left;
+	margin: 0 0 0 0;
+	padding: 0 0 0 0;
+	line-height: 1.6;
+}
+
+h1 {
+	font-family: "Poppins Light", sans-serif;
+	font-size: 2.2em;
+	font-weight: 300;
+	color: #fab13e;
+}
+
+h2 {
+	font-family: "Poppins Light", sans-serif;
+	font-weight: 100;
+	font-size: 1.4em;
+	color: #e5005a;
+	margin-top: -5px;
+	margin-left: 0px;
+}
+
+h3 {
+	font-family: "Poppins Light", sans-serif;
+	font-weight: 300;
+	font-size: 19px;
+	margin-top: -7.5px;
+	letter-spacing: 0.5px;
+	margin-left: 0px;
+	color: #fab13e;
+}
+
+h4 {
+	font-family: "Poppins", sans-serif;
+	font-size: 14px;
+	font-weight: 400;
+	color: #f8f8ff;
+	margin-left: 0px;
+}
+
+#overview-ctr {
+	display: block;
+	position: relative;
+	width: 100%;
+	margin-left: 53px;
+	margin-bottom: 20px;
+	white-space: normal;
+}
+
+p {
+	font-family: "Lato", sans-serif;
+	font-size: 12px;
+	font-weight: 400;
+	color: #f8f8ff;
+	letter-spacing: normal;
+	line-height: 1.2;
+	text-align: left;
+}
+
+.list-ctr {
+	display: block;
+	position: relative;
+	width: 100%;
+	margin-bottom: 10x;
+	margin-left: 55px;
+	text-align: left;
+	padding: 0;
+	white-space: normal;
+}
+
+.tag {
+	width: 30px;
+	height: 20px;
+	text-align: center;
+	padding: 2.5px 5px;
+	margin: 0 5px 0 0;
+	border-radius: 4px;
+}
+
+.symbol {
+	font-size: 18px;
+	margin-left: -5px;
+	margin-right: 2px;
+}
+
+.pill {
+	display: block;
+	border-radius: 5px;
+	width: 160px;
+	height: 30px;
+	margin-left: 0;
+	padding: 0 5px;
+}
+
+.pill-txt {
+	font-weight: 600;
+	color: #fff;
+	letter-spacing: 0.25px;
+	text-align: left;
+	line-height: 1.75;
+}
+
+h5 {
+	font-family: "Poppins", sans-serif;
+	font-size: 1em;
+	font-weight: 500;
+	letter-spacing: normal;
+	line-height: 2;
+	padding-left: 0.25em;
+}
+
+ul {
+	text-align: left;
+	padding: 0;
+	margin-left: 5px;
+	margin-top: 10px;
+	margin-bottom: 10px;
+	font-family: "Lato", sans-serif;
+	font-size: 11px;
+	font-weight: 400;
+	white-space: normal;
+	letter-spacing: normal;
+	line-height: normal;
+	list-style-type: square;
+	list-style-position: inside;
+	text-indent: -11px;
+	padding-left: 11px;
+}
+
+li {
+	margin-left: 0;
+	margin-top: 2.5px;
+	color: #f8f8ff;
+	text-indent: -15px;
+}
+
+.bullet_features::marker {
+	color: #00cc99;
+}
+
+.bullet_enhancements::marker {
+	color: #00ccff;
+}
+
+.bullet_issues::marker {
+	color: #f40058;
+}
+
+a {
+	font-family: "Lato", sans-serif;
+	font-weight: 500;
+	color: #f8f8ff;
+	letter-spacing: normal;
+	line-height: normal;
+}
+
+.features {
+	background: #00cc99;
+}
+
+.fixes {
+	background: #f3b335;
+}
+
+.enhancements {
+	background: #00ccff;
+}
+
+.resources {
+	background: #ff5f00;
+}
+
+.notes {
+	background: #7600cd;
+}
+
+.deprecated {
+	background: #343434;
+}
+
+.known-issues {
+	background: #f40058;
+}
+
+footer {
+	display: block;
+	position: relative;
+	margin: 0 auto;
+	width: 100%;
+	background-color: transparent;
+	text-align: center;
+}
+
+#ftr-txt {
+	font-family: "Lato", sans-serif;
+	font-size: 10px;
+	font-weight: 300;
+	color: #f8f8ff;
+	text-align: center;
+}
+
+#push {
+	display: block;
+	position: relative;
+	height: 10px !important;
+	margin: 20px 0;
+	width: 100%;
+	background: transparent;
+	color: transparent;
+}
+
+#patch {
+	background: #ffca48;
+}
+
+#minor {
+	background: #ee3e38;
+}
+
+#major {
+	background: #e5005a;
+}
