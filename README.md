@@ -16,7 +16,7 @@ Get your 🆓 API key <a href="https://rapidapi.com/fivefilters/api/full-text-rs
 
 Springboard is run from the share sheet in Safari (or your preferred browser). When you hit a paywall, simply tap the share sheet icon at the bottom of the screen and select 'Springboard' from the menu.
 
-###### Full 📝 instructions can be found <a href="https://drive.google.com/file/d/1OXjN0qNqb7GHuAZ9aW034r6eQSeChoYR/view?usp=sharing"><span style="color:blue">here</span></a>
+##### Full 📝 instructions can be found <a href="https://drive.google.com/file/d/1OXjN0qNqb7GHuAZ9aW034r6eQSeChoYR/view?usp=sharing"><span style="color:blue">here</span></a>
 
 <br>
 ### 🎨 Custom Screens
