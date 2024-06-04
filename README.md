@@ -2,13 +2,13 @@
 <br>
 <br>
 <br />
-### Overview 🔍
+## 🔍 Overview
 
 Powered by the <a href="https://fivefilters.org">Full-Text RSS API</a>, Springboard is the <span style="text-decoration: underline;text-decoration-style:solid;text-decoration-thickness: 1px;text-decoration-skip: ink"><strong>most comprehensive, customizable, and effective </strong></span> shortcut to bypass paywalls and access restricted content online!
 
 Much like ad blockers, paywall bypass (or "article extraction") tools are now a necessity as online news & media outlets continue to lock more and more content behind paywalls.
 
-### 📖 How to Use Springboard
+## 📖 How to Use Springboard
 
 \*\* **🔖 Note: Springboard requires an 🔑API key to use.** \*\*
 
@@ -16,16 +16,16 @@ Get your 🆓 API key <a href="https://rapidapi.com/fivefilters/api/full-text-rs
 
 Springboard is run from the share sheet in Safari (or your preferred browser). When you hit a paywall, simply tap the share sheet icon at the bottom of the screen and select 'Springboard' from the menu.
 
-##### Full 📝 instructions can be found <a href="https://drive.google.com/file/d/1OXjN0qNqb7GHuAZ9aW034r6eQSeChoYR/view?usp=sharing"><span style="color:blue">here</span></a>
+### Full 📝 instructions can be found <a href="https://drive.google.com/file/d/1OXjN0qNqb7GHuAZ9aW034r6eQSeChoYR/view?usp=sharing"><span style="color:blue">here</span></a>
 
 <br>
-### 🎨 Custom Screens
+## 🎨 Custom Screens
 With the release of Springboard v2.0.0, you can now customize the in-app viewing screen.<br>Watch the 📼 video ⬇️ below to learn how!
 
 [![Springboard 2.0.0 - Customize Viewing Screen](https://i.imgur.com/EXNJ2bl.png)](https://youtu.be/alyAOu0ciaU)
 
 <br>
-### 🚁 Bypass Paywalls from
+## 🚁 Bypass Paywalls from
 
 <img src="[Websites](https://i.ibb.co/njF3bvB/image.png)" style="width: 100%;height: auto">
 <br>
@@ -63,7 +63,7 @@ With the release of Springboard v2.0.0, you can now customize the in-app viewing
  - Washington Post (washingtonpost.com)
  - Wired (wired.com)
 <br>
-### 🚧 Limitations
+## 🚧 Limitations
 
 Springboard does **not** work for the following publications:
 
