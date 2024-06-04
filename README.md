@@ -1,5 +1,5 @@
-<img src="[Springboard](https://i.ibb.co/pXyw0mz/Springboard.png)" style="width:200px;height:112.5px">
-
+<img src="https://i.ibb.co/pXyw0mz/Springboard.png" style="width:200px;height:112.5px">
+<br>
 ### 🔍 Overview
 
 Powered by the <a href="https://fivefilters.org">Full-Text RSS API</a>, Springboard is the <span style="text-decoration: underline;text-decoration-style:solid;text-decoration-thickness: 1px;text-decoration-skip: ink"><strong>most comprehensive, customizable, and effective </strong></span> shortcut to bypass paywalls and access restricted content online!
@@ -17,7 +17,7 @@ Springboard is run from the share sheet in Safari (or your preferred browser). W
 ######Full 📝 instructions can be found <a href="https://drive.google.com/file/d/1OXjN0qNqb7GHuAZ9aW034r6eQSeChoYR/view?usp=sharing"><span style="color:blue">here</span></a>
 
 <br>
-###🎨 Custom Screens
+### 🎨 Custom Screens
 With the release of Springboard v2.0.0, you can now customize the in-app viewing screen.<br>Watch the 📼 video ⬇️ below to learn how!
 
 [![Springboard 2.0.0 - Customize Viewing Screen](https://i.imgur.com/EXNJ2bl.png)](https://youtu.be/alyAOu0ciaU)
