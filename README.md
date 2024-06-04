@@ -1,17 +1,23 @@
 <img src="https://i.ibb.co/mq1jW8Y/imageedit-13-5255173524.png">
 <br>
-<br>
-<br>
+<br />
+
+
 
 ## 🔍 Overview
 
 Powered by the <a href="https://fivefilters.org">Full-Text RSS API</a>, Springboard is the <span style="text-decoration: underline;text-decoration-style:solid;text-decoration-thickness: 1px;text-decoration-skip: ink"><strong>most comprehensive, customizable, and effective </strong></span> shortcut to bypass paywalls and access restricted content online!
 
 Much like ad blockers, paywall bypass (or "article extraction") tools are now a necessity as online news & media outlets continue to lock more and more content behind paywalls.
-
+<br>
+<br>
+<br />
 ## 📖 How to Use Springboard
 
-\*\* **🔖 Note: Springboard requires an 🔑API key to use.** \*\*
+> [!IMPORTANT]
+🔖 Note: Springboard requires an 🔑API key to use.
+
+<br />
 
 Get your 🆓 API key <a href="https://rapidapi.com/fivefilters/api/full-text-rss/pricing">here</a>. Select the Basic plan, then follow the steps. 
 
@@ -19,17 +25,22 @@ Springboard is run from the share sheet in Safari (or your preferred browser). W
 
 ### Full 📝 instructions can be found <a href="https://drive.google.com/file/d/1OXjN0qNqb7GHuAZ9aW034r6eQSeChoYR/view?usp=sharing"><span style="color:blue">here</span></a>
 
-<br>
-## 🎨 Custom Screens
-With the release of Springboard v2.0.0, you can now customize the in-app viewing screen.<br>Watch the 📼 video ⬇️ below to learn how!
+<br />
 
+## 🎨 Custom Screens
+
+With the release of Springboard v2.0.0, you can now customize the in-app viewing screen.<br>Watch the 📼 video ⬇️ below to learn how!
+<br />
 [![Springboard 2.0.0 - Customize Viewing Screen](https://i.imgur.com/EXNJ2bl.png)](https://youtu.be/alyAOu0ciaU)
 
-<br>
+<br />
+
 ## 🚁 Bypass Paywalls from
 
 <img src="[Websites](https://i.ibb.co/njF3bvB/image.png)" style="width: 100%;height: auto">
-<br>
+
+<br />
+
  - The Athletic (theathletic.com)
  - The Atlantic (theatlantic.com)
  - Boston Globe (bostonglobe.com)
@@ -63,7 +74,9 @@ With the release of Springboard v2.0.0, you can now customize the in-app viewing
  - Vanity Fair (vanityfair.com)
  - Washington Post (washingtonpost.com)
  - Wired (wired.com)
-<br>
+   
+<br />
+
 ## 🚧 Limitations
 
 Springboard does **not** work for the following publications:
