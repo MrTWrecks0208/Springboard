@@ -1,7 +1,8 @@
 <img src="https://i.ibb.co/mq1jW8Y/imageedit-13-5255173524.png">
 <br>
 <br>
-<br />
+<br>
+
 ## 🔍 Overview
 
 Powered by the <a href="https://fivefilters.org">Full-Text RSS API</a>, Springboard is the <span style="text-decoration: underline;text-decoration-style:solid;text-decoration-thickness: 1px;text-decoration-skip: ink"><strong>most comprehensive, customizable, and effective </strong></span> shortcut to bypass paywalls and access restricted content online!
