@@ -2,13 +2,13 @@
 <br>
 <br>
 <br />
-###🔍 Overview
+### Overview 🔍
 
 Powered by the <a href="https://fivefilters.org">Full-Text RSS API</a>, Springboard is the <span style="text-decoration: underline;text-decoration-style:solid;text-decoration-thickness: 1px;text-decoration-skip: ink"><strong>most comprehensive, customizable, and effective </strong></span> shortcut to bypass paywalls and access restricted content online!
 
 Much like ad blockers, paywall bypass (or "article extraction") tools are now a necessity as online news & media outlets continue to lock more and more content behind paywalls.
 
-###📖 How to Use Springboard
+### 📖 How to Use Springboard
 
 \*\* **🔖 Note: Springboard requires an 🔑API key to use.** \*\*
 
