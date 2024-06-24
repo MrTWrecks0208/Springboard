@@ -17,7 +17,7 @@ Much like ad blockers, article extraction tools like Springboard are now a neces
 > [!IMPORTANT]
 > Springboard requires an 🔑API key to use.
 
-<br />
+
 
 Get your 🆓 API key <a href="https://rapidapi.com/fivefilters/api/full-text-rss/pricing">here</a>. Select the Basic plan, then follow the steps. 
 
