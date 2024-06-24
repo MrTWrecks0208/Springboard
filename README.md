@@ -27,7 +27,7 @@ Springboard is run from the share sheet in Safari (or your preferred browser). W
 
 ## 🎨 Custom Screens
 
-With the release of Springboard v2.0.0, you can now customize the in-app viewing screen.
+Springboard allows users to customize the in-app viewing screen.
 
 <br />
 
