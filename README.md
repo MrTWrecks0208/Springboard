@@ -16,10 +16,7 @@ Much like ad blockers, article extraction tools like Springboard are now a neces
 
 > [!IMPORTANT]
 > Springboard requires an 🔑API key to use.
-
-
-
-Get your 🆓 API key <a href="https://rapidapi.com/fivefilters/api/full-text-rss/pricing">here</a>. Select the Basic plan, then follow the steps. 
+>>Get your 🆓 API key <a href="https://rapidapi.com/fivefilters/api/full-text-rss/pricing">here</a>. Select the Basic plan, then follow the steps. 
 
 Springboard is run from the share sheet in Safari (or your preferred browser). When you hit a paywall, simply tap the share sheet icon at the bottom of the screen and select 'Springboard' from the menu.
 
