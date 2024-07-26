@@ -6,6 +6,8 @@
 
 Powered by the Full-Text RSS API, Springboard is the most comprehensive and effective shortcut to bypass paywalls and access restricted content online!
 Springboard is highly customizable, allowing users to design their in-app viewing screen with their choice of fonts, colors, and more, and includes features for translating and summarizing* articles.
+<br>
+
 Much like ad blockers, bypass (or "article extraction") tools are now a necessity as online news & media outlets continue to lock more and more content behind paywalls.
 <br>
 *Feature currently in testing to be included in v4.0 which is set to release in early August 2024.
