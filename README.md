@@ -6,10 +6,9 @@
 
 ## 🔍 Overview
 
-Powered by the <a href="https://fivefilters.org">Full-Text RSS API</a>, Springboard is the <span style="text-decoration: underline;text-decoration-style:solid;text-decoration-thickness: 1px;text-decoration-skip: ink"><strong>most comprehensive, customizable, and effective </strong></span> shortcut to bypass paywalls and access restricted content online!
-
-Much like ad blockers, article extraction tools like Springboard are now a necessity as online news & media outlets continue to restrict more and more of their content.
-<br>
+Powered by the Full-Text RSS API, Springboard is the most comprehensive and effective shortcut to bypass paywalls and access restricted content online!
+In addition to its primary functionality of extracting articles, Springboard is also highly customizable and includes features for translating and summarizing* articles.
+Much like ad blockers, bypass (or "article extraction") tools are now a necessity as online news & media outlets continue to lock more and more content behind paywalls.
 <br>
 <br />
 ## 📖 How to Use Springboard
