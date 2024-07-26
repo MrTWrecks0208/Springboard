@@ -1,8 +1,6 @@
 <img src="https://i.imgur.com/NwnpCHL.png" style="width:100%;height:auto">
 <br>
-<br />
-
-
+<br>
 
 ## 🔍 Overview
 
@@ -29,21 +27,21 @@ Springboard is run from the share sheet in Safari (or your preferred browser). W
 
 Springboard allows users to customize the in-app viewing screen.
 
-<br />
+<br>
 
 Watch the 📼 video ⬇️ below to learn how!
 
-<br />
+<br>
 
 [![Springboard 2.0.0 - Customize Viewing Screen](https://i.imgur.com/EXNJ2bl.png)](https://youtu.be/alyAOu0ciaU)
 
-<br />
+<br>
 
 ## 🚁 Bypass Paywalls from
 
-<img src="https://i.ibb.co/njF3bvB/image.png" style="width: 100%;height: auto">
+<img src="https://i.ibb.co/kmkSWN7/Screenshot-2024-07-21-175945.png" style="width: 100%;height: auto">
 
-<br />
+<br>
 
  - The Athletic (theathletic.com)
  - The Atlantic (theatlantic.com)
@@ -52,8 +50,7 @@ Watch the 📼 video ⬇️ below to learn how!
  - Chicago Tribune (chicagotribune.com)
  - The Cut (thecut.com)
  - Daily Beast (thedailybeast.com)
- - Daily Telegraph 
-(dailytelegraph.com.au)
+ - Daily Telegraph (dailytelegraph.com.au)
  - Economist (economist.com)
  - Esquire (esquire.com)
  - Financial Times (ft.com)
@@ -61,6 +58,7 @@ Watch the 📼 video ⬇️ below to learn how!
  - Foreign Policy (foreignpolicy.com)
  - Fortune (fortune.com)
  - The Guardian (theguardian.com)
+ - History Extra (historyextra.com)
  - Houston Chronicle (chron.com)
  - Los Angeles Times (latimes.com)
  - Medium (medium.com)
@@ -71,6 +69,7 @@ Watch the 📼 video ⬇️ below to learn how!
  - Nikkei (asia.nikkei.com) (partial)
  - Portland Press Herald (pressherald.com)
  - ScreenRant (screenrant.com)
+ - Slate+ (slate.com) 
  - Substack (substack.com)
  - Telegraph (telegraph.co.uk)
  - Texas Monthly (texasmonthly.com)
@@ -79,7 +78,7 @@ Watch the 📼 video ⬇️ below to learn how!
  - Washington Post (washingtonpost.com)
  - Wired (wired.com)
    
-<br />
+<br>
 
 ## 🚧 Limitations
 
@@ -89,7 +88,5 @@ Springboard does **not** work for the following publications:
  - Bloomberg (bloomberg.com)
 
 *Lists are updated as needed.*<br>
-<em>Last Update: 6.4.2024</em>
-
-*If you use Springboard on a site that’s not on either list, please let me know the name of the site and the outcome (works / doesn’t work)*
+<em>Last Update: 7.25.2024</em>
 _____________________________________
