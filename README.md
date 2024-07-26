@@ -10,6 +10,7 @@ Springboard is highly customizable, allowing users to design their in-app viewin
 
 Much like ad blockers, bypass (or "article extraction") tools are now a necessity as online news & media outlets continue to lock more and more content behind paywalls.
 <br>
+
 *Feature currently in testing to be included in v4.0 which is set to release in early August 2024.
 <br>
 <br>
