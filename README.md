@@ -44,7 +44,7 @@ Watch the 📼 video ⬇️ below to learn how!
 
 ## 🚁 Bypass Paywalls from
 
-<img src="https://i.ibb.co/kmkSWN7/Screenshot-2024-07-21-175945.png" style="width: 100%;height: auto">
+<img src="https://i.postimg.cc/bwprLcSd/Screenshot-2025-10-17-215946.png" style="width: 100%;height: auto">
 
 <br>
 
