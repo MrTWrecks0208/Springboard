@@ -4,8 +4,8 @@
 
 ## 🔍 Overview
 
-Powered by the Full-Text RSS API, Springboard is the most comprehensive and effective shortcut to bypass paywalls and access restricted content online!
-Springboard is highly customizable, allowing users to design their in-app viewing screen with their choice of fonts, colors, and more, and includes features for translating and summarizing* articles.
+Springboard is the most comprehensive and effective shortcut to bypass paywalls and access restricted content online!
+Springboard is *highly* customizable, allowing users to style their in-app viewing screen with their choice of fonts, colors, and more, and includes features for translating and summarizing* articles.
 <br>
 
 Much like ad blockers, bypass (or "article extraction") tools are now a necessity as online news & media outlets continue to lock more and more content behind paywalls.
@@ -19,7 +19,7 @@ Much like ad blockers, bypass (or "article extraction") tools are now a necessit
 > Springboard requires an 🔑API key to use.
 >>Get your 🆓 API key <a href="https://rapidapi.com/fivefilters/api/full-text-rss/pricing">here</a>. Select the Basic plan, then follow the steps on screen. 
 
-Springboard is run from the share sheet in Safari (or your preferred browser). When you hit a paywall, simply tap the share sheet icon at the bottom of the screen and select 'Springboard' from the menu.
+Springboard is run from the share sheet in your preferred browser. When you hit a paywall, simply tap the share sheet icon at the bottom of the screen and select 'Springboard' from the menu.
 
 <br>
 
