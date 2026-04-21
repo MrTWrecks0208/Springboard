@@ -44,7 +44,7 @@ Watch the 📼 video ⬇️ below to learn how!
 
 ## 🚁 Bypass Paywalls from
 
-<img src="https://i.postimg.cc/bwprLcSd/Screenshot-2025-10-17-215946.png" style="width: 100%;height: auto">
+<img src="https://i.postimg.cc/zXZH8FQk/Screenshot-2026-04-21-014616.png" style="width: 100%;height: auto">
 
 <br>
 
@@ -56,6 +56,7 @@ Watch the 📼 video ⬇️ below to learn how!
  - Chicago Tribune (chicagotribune.com)
  - The Cut (thecut.com)
  - Daily Beast (thedailybeast.com)
+ - Daily Mail (dailymail.co.uk)
  - Daily Telegraph (dailytelegraph.com.au)
  - Dallas News (dallasnews.com) 
  - The Economist (economist.com)
@@ -86,6 +87,7 @@ Watch the 📼 video ⬇️ below to learn how!
  - The Times of India (timesofindia.indiatimes.com/us)
  - TipRanks (tipranks.com)
  - Vanity Fair (vanityfair.com)
+ - The Verge (verge.com)
  - Washington Post (washingtonpost.com)
  - Wired (wired.com)
    
