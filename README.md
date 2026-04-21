@@ -101,5 +101,5 @@ Springboard does **not** work for the following publications:
  - Bloomberg (bloomberg.com)
 
 *Lists are updated as needed.*<br>
-<em>Last Update: 7.25.2024</em>
+<em>Last Update: 4.21.2026</em>
 _____________________________________
